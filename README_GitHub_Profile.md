@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning full stack web development course (Regular - Remote) at Masai School, Bangalore
 - 💞️ I’m looking to collaborate on web development projects that runs on react, redux, chakra-ui, html5, css, javascript, etc.
 - 📫 How to reach me ...
+- LinkedIn: https://www.linkedin.com/in/sanjaykumar-rathva-a091/
 - Email-Id: sanjayrathva091@outlook.com
 - Mobile No.: (+91)-845-954-2736
 

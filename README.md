@@ -1,10 +1,12 @@
-### 👋 Hi! there, I'm Sanjay
+### 👋 Hi! there,
 
 <p align="center">
-
   <img src="./public/Heading.gif" alt="gitHub_Heading" />
-  
 </p>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=ffa500&center=true&width=1024&lines=Hey!+I'm+Sanjaykumar+Rathva!;Full+Stack+Web+Developer;)](https://git.io/typing-svg)
+<h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
 - 👀 I’m interested in transforming real world problems into technology solutions
 - 🌱 I’m currently learning full stack web development course (Regular - Remote) at Masai School, Bangalore

@@ -1,11 +1,16 @@
 ### 👋 Hi! there, I'm Sanjay
+
+<div style="display: flex; justify-content: center"><img src="./public/Heading.gif" alt="gitHub_Heading" style="border-radius: 15px; border:2px solid whitesmoke" /></div>
+
 - 👀 I’m interested in transforming real world problems into technology solutions
 - 🌱 I’m currently learning full stack web development course (Regular - Remote) at Masai School, Bangalore
 - 💞️ I’m looking to collaborate on web development projects that runs on react, redux, chakra-ui, html5, css, javascript, etc.
 - 📫 How to reach me ...
-- LinkedIn: https://www.linkedin.com/in/sanjaykumar-rathva-a091/
+- LinkedIn: [Sanjaykumar Rathva](https://www.linkedin.com/in/sanjaykumar-rathva-a091/)
 - Email-Id: sanjayrathva091@outlook.com
 - Mobile No.: (+91)-845-954-2736
+
+<div style="text-align: center">
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -29,19 +34,27 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
+</div>
 
-| <a href="https://github.com/sanjayrathva091/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayrathva091&layout=compact&theme=gruvbox" alt="Sanjay's github stats" /></a> | <a href="https://github.com/gruvbox/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjayrathva091&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true" /></a> |
-| ------------- | ------------- |
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); column-gap: 20px">
+<div><a href="https://github.com/sanjayrathva091/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=sanjayrathva091&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=false" alt="Sanjay's github stats" /></a></div>
+<div><a href="https://github.com/gruvbox/github-readme-stats"><img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayrathva091&layout=compact&theme=gruvbox" /></a></div>
+</div>
 
 #### Top Repositories
 
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); column-gap: 20px">
+<div>
 <a href="https://github.com/sanjayrathva091/github-readme-stats">
-  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=sanjayrathva091&repo=eight-club-5364&show_owner=true&theme=gruvbox" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=sanjayrathva091&repo=eight-club-5364&show_owner=true&theme=gruvbox" />
 </a>
+</div>
+<div>
 <a href="https://github.com/sanjayrathva091/github-readme-stats">
-  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=sanjayrathva091&repo=eight-club-5364&show_owner=true&theme=gruvbox" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=sanjayrathva091&repo=eight-club-5364&show_owner=true&theme=gruvbox" />
 </a>
-
+</div>
+</div>
 
 <!---
 sanjayrathva091/sanjayrathva091 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

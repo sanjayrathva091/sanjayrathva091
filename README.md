@@ -42,6 +42,21 @@
 
 </p>
 
+<div>
+  <img src="https://github.com/sanjayrathva091/sanjayrathva091/blob/main/public/logos/create-react-app.svg" alt="create-react-app-logo" width="60px" />
+  <img src="https://github.com/sanjayrathva091/sanjayrathva091/blob/main/public/logos/react-2.svg" alt="react-logo" width="60px" />
+  <img src="https://github.com/sanjayrathva091/sanjayrathva091/blob/main/public/logos/redux.svg" alt="redux-logo" width="60px" />
+  <img src="https://github.com/sanjayrathva091/sanjayrathva091/blob/main/public/logos/javascript-1.svg" alt="js-logo" width="60px" />
+  <img src="https://github.com/sanjayrathva091/sanjayrathva091/blob/main/public/logos/html-1.svg" alt="html-logo" width="60px" />
+  <img src="https://github.com/sanjayrathva091/sanjayrathva091/blob/main/public/logos/css-3.svg" alt="css-logo" width="60px" />
+  <img src="https://github.com/sanjayrathva091/sanjayrathva091/blob/main/public/logos/tailwind-css-2.svg" alt="tailwind-css-logo" width="60px" />
+  <img src="https://github.com/sanjayrathva091/sanjayrathva091/blob/main/public/logos/material-ui-1.svg" alt="mui-logo" width="60px" />
+  <img src="https://github.com/sanjayrathva091/sanjayrathva091/blob/main/public/logos/postman.svg" alt="postman-logo" width="60px" />
+  <img src="https://github.com/sanjayrathva091/sanjayrathva091/blob/main/public/logos/heroku-4.svg" alt="heroku-logo" width="60px" />
+  <img src="https://github.com/sanjayrathva091/sanjayrathva091/blob/main/public/logos/netlify.svg" alt="netlify-logo" width="60px" />
+  <img src="https://github.com/sanjayrathva091/sanjayrathva091/blob/main/public/logos/zoom-app.svg" alt="zoom-logo" width="60px" />
+</div>
+
 <a href="https://github.com/sanjayrathva091/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=sanjayrathva091&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=false" alt="Sanjay's github stats" /></a>
 <a href="https://github.com/gruvbox/github-readme-stats"><img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayrathva091&layout=compact&theme=gruvbox" /></a>
 

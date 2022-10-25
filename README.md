@@ -42,6 +42,7 @@
 
 </p>
 
+
 <div>
   <img src="https://github.com/sanjayrathva091/sanjayrathva091/blob/main/public/logos/create-react-app.svg" alt="create-react-app-logo" width="60px" />
   <img src="https://github.com/sanjayrathva091/sanjayrathva091/blob/main/public/logos/react-2.svg" alt="react-logo" width="60px" />
@@ -57,18 +58,27 @@
   <img src="https://github.com/sanjayrathva091/sanjayrathva091/blob/main/public/logos/zoom-app.svg" alt="zoom-logo" width="60px" />
 </div>
 
-<a href="https://github.com/sanjayrathva091/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=sanjayrathva091&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=false" alt="Sanjay's github stats" /></a>
-<a href="https://github.com/gruvbox/github-readme-stats"><img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayrathva091&layout=compact&theme=gruvbox" /></a>
-
 #### Top Repositories
 
+<a href="https://github.com/sanjayrathva091/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjayrathva091&repo=eight-club-5364&show_owner=true&theme=gruvbox" />
+</a>
+<a href="https://github.com/sanjayrathva091/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjayrathva091&repo=eight-club-5364&show_owner=true&theme=gruvbox" />
+</a>
 
-<a href="https://github.com/sanjayrathva091/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjayrathva091&repo=eight-club-5364&show_owner=true&theme=gruvbox" />
-</a>
-<a href="https://github.com/sanjayrathva091/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjayrathva091&repo=eight-club-5364&show_owner=true&theme=gruvbox" />
-</a>
+#### GitHub Stats
+
+<p align="center"><a href="https://github.com/sanjayrathva091/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjayrathva091&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=false" alt="Sanjay's github stats" /></a></p>
+
+<p align="center"><a href="https://github.com/gruvbox/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayrathva091&layout=compact&theme=gruvbox" /></a></p>
+
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjayrathva091&show_icons=true&locale=en&theme=gruvbox" alt="sanjayarathva091" /></p>
+
+
+<a href="https://github.com/sanjayrathva091/github-readme-activity-graph"><img alt="Sukhdev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sanjayrathva091&bg_color=0D1117&color=ffa500&line=5BCDEC&point=ffa500&hide_border=true" /></a>
+
+
 
 <!---
 sanjayrathva091/sanjayrathva091 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

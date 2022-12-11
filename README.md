@@ -61,10 +61,10 @@
 #### Top Repositories
 
 <a href="https://github.com/sanjayrathva091/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjayrathva091&repo=screeching-idea-7572&show_owner=true&theme=gruvbox" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjayrathva091&repo=fitnessBlender&show_owner=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/sanjayrathva091/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjayrathva091&repo=screeching-idea-7572&show_owner=true&theme=gruvbox" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjayrathva091&repo=fitnessBlender&show_owner=true&theme=gruvbox" />
 </a>
 
 #### GitHub Stats

@@ -76,7 +76,7 @@
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjayrathva091&show_icons=true&locale=en&theme=gruvbox" alt="sanjayarathva091" /></p>
 
 
-<a href="https://github.com/sanjayrathva091/github-readme-activity-graph"><img alt="Sukhdev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sanjayrathva091&bg_color=0D1117&color=ffa500&line=5BCDEC&point=ffa500&hide_border=true" /></a>
+<a href="https://github.com/sanjayrathva091/github-readme-activity-graph"><img alt="Sanjay's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sanjayrathva091&bg_color=0D1117&color=ffa500&line=5BCDEC&point=ffa500&hide_border=true" /></a>
 
 
 
